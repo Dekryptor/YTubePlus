@@ -1,4 +1,4 @@
-YouTube + [![version](https://img.shields.io/github/release/ParticleCore/Particle.svg)](https://github.com/ParticleCore/Particle/releases/latest) [![issues](https://img.shields.io/github/issues/ParticleCore/Particle.svg)](https://github.com/ParticleCore/Particle/issues)
+YouTube + [![version](https://img.shields.io/github/release/ParticleCore/Particle.svg)](https://github.com/Dekryptor/YTubePlus/releases/latest) [![issues](https://img.shields.io/github/issues/ParticleCore/Particle.svg)](https://github.com/Dekryptor/YTubePlus/issues)
 ===========
 YouTube + (codename Particle) is focused on providing an extended YouTube experience.
 
@@ -10,4 +10,4 @@ At the moment no support will be provided outside these platforms. YT+ supports 
 
 
 
-**[Download](https://github.com/ParticleCore/Particle/wiki/Download) | [Features](https://github.com/ParticleCore/Particle/wiki/Features) | [Report a problem](https://github.com/ParticleCore/Particle/wiki/Report-a-problem) | [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UMVQJJFG4BFHW)**
+**[Download](https://github.com/Dekryptor/YTubePlus/wiki/Download) | [Features](https://github.com/Dekryptor/YTubePlus/wiki/Features) | [Report a problem](https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem) **
