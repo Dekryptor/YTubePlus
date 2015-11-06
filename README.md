@@ -10,4 +10,4 @@ At the moment no support will be provided outside these platforms. YT+ supports 
 
 
 
-| <a href="https://github.com/Dekryptor/YTubePlus/wiki/Download">Download</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Features">Features</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem">Report a problem</a> |
+<a href="https://github.com/Dekryptor/YTubePlus/wiki/Download">Download</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Features">Features</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem">Report a problem</a>
