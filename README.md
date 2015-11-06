@@ -10,4 +10,5 @@ At the moment no support will be provided outside these platforms. YT+ supports 
 
 
 
-<a href="https://github.com/Dekryptor/YTubePlus/wiki/Download">Download</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Features">Features</a> | <a href="https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem">Report a problem</a>
+**|[Download](https://github.com/ParticleCore/Particle/wiki/Download) | [Features](https://github.com/ParticleCore/Particle/wiki/Features) | [Report a problem](https://github.com/ParticleCore/Particle/wiki/Report-a-problem) | **
+
