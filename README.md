@@ -10,4 +10,4 @@ At the moment no support will be provided outside these platforms. YT+ supports 
 
 
 
-**[Download](https://github.com/Dekryptor/YTubePlus/wiki/Download) | [Features](https://github.com/Dekryptor/YTubePlus/wiki/Features) | [Report a problem](https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem) **
+**[Download](https://github.com/Dekryptor/YTubePlus/wiki/Download) | [Features](https://github.com/Dekryptor/YTubePlus/wiki/Features) | [Report a problem](https://github.com/Dekryptor/YTubePlus/wiki/Report-a-problem)|**
